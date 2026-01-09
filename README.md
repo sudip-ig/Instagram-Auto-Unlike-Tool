@@ -1,0 +1,1 @@
+A desktop app that automates unliking Instagram posts using a CustomTkinter GUI and Selenium. It supports session cookies, batch processing, adjustable speeds, and human-like delays, runs safely in background threads, and provides real-time logs, stats, and stop controls.
